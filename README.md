@@ -32,3 +32,6 @@ npm run path
 nodemon app.js
 ###Note: Make sure nodemon is installed globally or locally in your project.
 ### localhost:1000/localhost:3000
+
+#live at
+https://to-do-final-gamma.vercel.app/
